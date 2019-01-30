@@ -1,0 +1,61 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/rot_side",
+		"texture": "block/rot"
+	},
+	"elements": [
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 4.5, 16, 16 ], "texture": "#particle" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"__comment": "Box13",
+			"from": [ 10, 16, 8 ],
+			"to": [ 14, 17, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 9, 7.5, 13, 10 ], "texture": "#texture" },
+				"up": { "uv": [ 2, 2.5, 9.5, 7 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 15, 7, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 9, 15, 13, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 6, 15, 8.5, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 7.5, 15, 10, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box13",
+			"from": [ 1, 16, 9.5 ],
+			"to": [ 8, 17, 14.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 1.5, 8, 6.5 ], "texture": "#texture" },
+				"up": { "uv": [ 1, 9.5, 8, 14.5 ], "texture": "#texture" },
+				"north": { "uv": [ 8, 15, 15, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 1, 15, 8, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 9.5, 15, 14.5, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 1.5, 15, 6.5, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box14",
+			"from": [ 7, 16, 0.5 ],
+			"to": [ 15, 17, 5.5 ],
+			"faces": {
+				"down": { "uv": [ 7, 10.5, 15, 15.5 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 4, 12, 9.5 ], "texture": "#texture" },
+				"north": { "uv": [ 1, 15, 9, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 7, 15, 15, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0.5, 15, 5.5, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 10.5, 15, 15.5, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

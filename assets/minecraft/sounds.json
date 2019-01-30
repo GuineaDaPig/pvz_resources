@@ -1,0 +1,115 @@
+{
+		"pvz.zombies.imp.idle":{
+        "sounds":[
+            {"name": "pvz/zombie/imp/imp_idle_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/imp/imp_idle_2", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/imp/imp_idle_3", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.zombies.imp.death":{
+        "sounds":[
+            {"name": "pvz/zombie/imp/imp_death_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/imp/imp_death_2", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/imp/imp_death_3", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.zombies.crusher.idle":{
+        "sounds":[
+            {"name": "pvz/zombie/crusher/crusher_idle_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/crusher/crusher_idle_2", "stream":false, "weight": 1}
+        ]
+    },
+			"pvz.zombies.crusher.death":{
+        "sounds":[
+            {"name": "pvz/zombie/crusher/crusher_death_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/crusher/crusher_death_2", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.zombies.generic.idle":{
+        "sounds":[
+            {"name": "pvz/zombie/generic/generic_idle_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/generic/generic_idle_2", "stream":false, "weight": 1}        
+		]
+    },
+		"pvz.zombies.generic.death":{
+        "sounds":[
+            {"name": "pvz/zombie/generic/generic_death_1", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/generic/generic_death_2", "stream":false, "weight": 1},
+            {"name": "pvz/zombie/generic/generic_death_3", "stream":false, "weight": 1}        
+		]
+    },
+		"pvz.plants.sun":{
+        "sounds":[
+            {"name": "pvz/plants/sun_plants/sun_1", "stream":false, "weight": 1},
+            {"name": "pvz/plants/sun_plants/sun_2", "stream":false, "weight": 1},
+            {"name": "pvz/plants/sun_plants/sun_3", "stream":false, "weight": 1},
+            {"name": "pvz/plants/sun_plants/sun_4", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.grow_shroom":{
+        "sounds":[
+            {"name": "pvz/plants/moonshroom/growing_shroom", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.placement":{
+        "sounds":[
+            {"name": "pvz/plants/plant_misc/plant_placement", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.peashooter_fire":{
+        "sounds":[
+            {"name": "pvz/plants/peashooter/peashooter_fire", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.golden_fire":{
+        "sounds":[
+            {"name": "pvz/plants/gold_pea/golden_fire", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.brussel_fire":{
+        "sounds":[
+            {"name": "pvz/plants/brussel_scout/brussel_fire", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.dig_up":{
+        "sounds":[
+            {"name": "pvz/plants/shovel/dig_up", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.get_shovel":{
+        "sounds":[
+            {"name": "pvz/plants/shovel/draw_shovel", "stream":false, "weight": 1}
+        ]
+    },
+		"pvz.plants.brussel_scout_pop":{
+        "sounds":[
+            {"name": "pvz/plants/brussel_scout/brussel_growth_pop", "stream":false, "weight": 1}
+        ]
+    },
+			"pvz.plants.pomegranade_charge":{
+        "sounds":[
+            {"name": "pvz/plants/pomegranade/charge_pome_kaboom", "stream":false, "weight": 1}
+        ]
+    },
+			"pvz.plants.dandelion.growl":{
+        "sounds":[
+            {"name": "pvz/plants/dandelion/lion_growl_1", "stream":false, "weight": 1},
+            {"name": "pvz/plants/dandelion/lion_growl_2", "stream":false, "weight": 1}
+        ]
+    },
+			"pvz.plants.dandelion.death":{
+        "sounds":[
+            {"name": "pvz/plants/dandelion/lion_dies", "stream":false, "weight": 1}
+        ]
+    },
+			"pvz.plants.muncher_bite":{
+        "sounds":[
+            {"name": "pvz/plants/muncher/muncher_bite", "stream":false, "weight": 1}
+        ]
+    },
+				"pvz.plants.pomegranade_kaboom":{
+        "sounds":[
+            {"name": "pvz/plants/pomegranade/kaboom", "stream":false, "weight": 1}
+        ]
+    }
+}

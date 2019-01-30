@@ -1,0 +1,42 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "pvz/packets/brussel_scout_packet"
+	},
+	"elements": [
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 11, 0.001 ],
+			"faces": {
+				"down": { "uv": [ 0, 15.999, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 0.001000404 ], "texture": "#texture" },
+				"north": { "uv": [ 2.5, 6.5, 14, 14 ], "texture": "#texture" },
+				"south": { "uv": [ 14, 6.5, 2.5, 14 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 0.001, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 15.999, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+],
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 10.043, -0.988, -16 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 2.7826, 0 ],
+			"scale":  [ 1.1391, 1.1043, 1 ]
+		}
+	}
+}

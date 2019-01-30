@@ -1,0 +1,18 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/e_particle",
+		"texture": "block/gray_stained_glass",
+		"texture1": "block/black_concrete"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1" }
+			}
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "items/knowledge_book",
+		"texture": "pvz/plants/pea_shooter_almanac"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16.5, 22.5, 0.001 ],
+			"faces": {
+				"down": { "uv": [ 0, 15.999, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 0.001000404 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 1, 2 ], "texture": "#particle" },
+				"south": { "uv": [ 0, 9.536743E-07, 11, 15.5 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 0.001, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 15.999, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 0, 0, -0.5 ],
+			"to": [ 16.5, 16, -0.499 ],
+			"faces": {
+				"down": { "uv": [ 0, 0.4989996, 16, 0.5 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 15.5, 16, 15.501 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" },
+				"south": { "uv": [ 0, 0, 0, 1 ], "texture": "#texture" },
+				"west": { "uv": [ 15.5, 0, 15.501, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0.4990005, 0, 0.5, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 6, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 6, 0 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 180, 0 ]
+		},
+		"ground": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		}
+	}
+}

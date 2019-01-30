@@ -1,0 +1,43 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"0": "pvz/plants/dandelion",
+		"particle": "pvz/plants/dandelion"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 5.001, 16.7821, 18.1229 ],
+			"to": [ 12.001, 23.7821, 25.1229 ],
+			"rotation": { "origin": [ 10.501, 26.28207, 11.62293 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 3.5, 7.33333, 2.33333, 8.5 ], "texture": "#0", "rotation": 180 },
+				"up": { "uv": [ 2.33333, 8.5, 1.16667, 7.33333 ], "texture": "#0" },
+				"north": { "uv": [ 1.16667, 8.5, 2.33333, 9.66667 ], "texture": "#0", "rotation": 180 },
+				"south": { "uv": [ 3.5, 8.5, 4.66667, 9.66667 ], "texture": "#0" },
+				"west": { "uv": [ 2.33333, 8.5, 3.5, 9.66667 ], "texture": "#0", "rotation": 270 },
+				"east": { "uv": [ 0, 8.5, 1.16667, 9.66667 ], "texture": "#0", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 7.001, 4, 14 ],
+			"to": [ 10.001, 20, 17 ],
+			"rotation": { "origin": [ 10.501, 11.5, 5.5 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 6.16667, 7.33333, 5.66667, 7.83333 ], "texture": "#0", "rotation": 180 },
+				"up": { "uv": [ 5.66667, 7.83333, 5.16667, 7.33333 ], "texture": "#0" },
+				"north": { "uv": [ 5.16667, 7.83333, 5.66667, 10.5 ], "texture": "#0", "rotation": 180 },
+				"south": { "uv": [ 6.16667, 7.83333, 6.66667, 10.5 ], "texture": "#0" },
+				"west": { "uv": [ 5.66667, 7.83333, 6.16667, 10.5 ], "texture": "#0", "rotation": 180 },
+				"east": { "uv": [ 4.66667, 7.83333, 5.16667, 10.5 ], "texture": "#0" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ 0, -34.05, -8.347 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

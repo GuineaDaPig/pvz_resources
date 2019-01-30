@@ -1,0 +1,378 @@
+
+    "parent": "item/handheld",
+
+    "textures": {
+
+        "layer0": "item/iron_hoe"
+
+    },
+
+    "overrides": [
+
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/sun"
+
+        },
+				{
+
+		            "predicate": {
+
+		                "custom_model_data": 2
+
+		            },
+
+		            "model": "pvz/plants/old_lawn/plant_models/peashooter/pea_shooter"
+
+		        },
+						{
+
+										"predicate": {
+
+												"custom_model_data": 3
+
+										},
+
+										"model": "pvz/plants/old_lawn/plant_models/peashooter/pea"
+
+								},
+								{
+
+												"predicate": {
+
+														"custom_model_data": 4
+
+												},
+
+												"model": "pvz/plants/old_lawn/plant_models/sunflower/sunflower"
+
+										},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 5
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/wallnut/wallnut"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 6
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/wallnut/wallnut_hurt"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 7
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/wallnut/wallnut_dying"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 8
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/potato_mine/potato_mine"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 9
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/brussel_scout/brussel_sprout_plant"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 10
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/brussel_scout/brussel_sprout_charging"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 11
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/brussel_scout/brussel_sprout"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 12
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/dandelion/dandelion"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 13
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/dandelion/dandelion_in_ground"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 14
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/moonshroom/moonshroom_baby"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 15
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/moonshroom/moonshroom_adult"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 16
+
+														},
+
+														"model": "pvz/mini_sun"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 17
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/muncher/muncher"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 18
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/muncher/muncher_closed"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 19
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/muncher/muncher_hidden"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 20
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/muncher/muncher_eating"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 21
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/lem-lime/lem_lime"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 22
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/lunarlilly/lunar_lilly"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 23
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/gold_peashooter/gold_pea_shooter"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 24
+
+														},
+
+														"model": "pvz/plants/old_lawn/plant_models/gold_peashooter/gold_pea"
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 25
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 26
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 27
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 28
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 29
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 30
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 31
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 32
+
+														},
+
+														"model": ""
+
+												},
+										{
+
+														"predicate": {
+
+																"custom_model_data": 33
+
+														},
+
+														"model": ""
+
+												}
+
+    ]
+
+}

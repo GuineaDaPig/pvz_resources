@@ -1,0 +1,54 @@
+{
+	"__comment": "Designed by Chiller with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "pvz/zombies/zombie",
+		"texture": "pvz/zombies/zombie",
+		"texture1": "pvz/zombies/zombie_eyes"
+	},
+	"elements": [
+		{
+			"__comment": "Box1",
+			"from": [ -0.25, 15.75, 0.25 ],
+			"to": [ 16, 31.75, 16.25 ],
+			"faces": {
+				"down": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"up": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"north": { "uv": [ 2, 2, 4, 4 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 0, 15.75, -0.5 ],
+			"to": [ 16, 31.75, 0.75 ],
+			"faces": {
+				"down": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"up": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"north": { "uv": [ 10, 2, 12, 4 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 0, 5.5, 1.5 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 0, 6, 2 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ 13.35, 8.75, -12.5 ],
+			"to": [ 21.35, 16.75, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 12, 5, 13, 8 ], "texture": "#texture" },
+				"up": { "uv": [ 11, 5, 12, 8 ], "texture": "#texture", "rotation": 180 },
+				"north": { "uv": [ 12, 4, 13, 5 ], "texture": "#texture" },
+				"south": { "uv": [ 11, 4, 12, 5 ], "texture": "#texture" },
+				"west": { "uv": [ 13, 5, 14, 8 ], "texture": "#texture", "rotation": 90 },
+				"east": { "uv": [ 13, 5, 14, 8 ], "texture": "#texture", "rotation": 270 }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ 0, -14.6, 0 ]
+		}
+	}
+}

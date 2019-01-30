@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "rot" },
+        "facing=west": { "model": "rot", "y": 90 },
+        "facing=north": { "model": "rot", "y": 180 },
+        "facing=east": { "model": "rot", "y": 270 }
+    }
+}
