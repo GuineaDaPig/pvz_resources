@@ -1,9 +1,9 @@
-
+{
     "parent": "item/handheld",
 
     "textures": {
 
-        "layer0": "item/iron_hoe"
+        "layer0": "item/silverfish_spawn_egg"
 
     },
 
@@ -24,7 +24,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 2
 
             },
 
@@ -35,7 +35,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 3
 
             },
 
@@ -46,7 +46,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 4
 
             },
 
@@ -57,7 +57,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 5
 
             },
 
@@ -68,7 +68,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 6
 
             },
 
@@ -79,7 +79,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 7
 
             },
 
@@ -90,7 +90,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 8
 
             },
 
@@ -101,7 +101,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 9
 
             },
 
@@ -112,7 +112,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 10
 
             },
 
@@ -123,7 +123,7 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 11
 
             },
 
@@ -134,12 +134,12 @@
 
             "predicate": {
 
-                "custom_model_data": 1
+                "custom_model_data": 12
 
             },
 
             "model": "pvz/plants/old_lawn/packets/gold_peashooter"
 
-        },
+        }
     ]
   }
