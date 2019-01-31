@@ -1,0 +1,145 @@
+
+    "parent": "item/handheld",
+
+    "textures": {
+
+        "layer0": "item/iron_hoe"
+
+    },
+
+    "overrides": [
+
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/peashooter"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/sunflower"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/wallnut"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/potato_mine"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/brussel_scout"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/dandelion"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/moonshroom"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/holo-pea"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/muncher"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/lem-lime"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/lunar_lilly"
+
+        },
+		{
+
+            "predicate": {
+
+                "custom_model_data": 1
+
+            },
+
+            "model": "pvz/plants/old_lawn/packets/gold_peashooter"
+
+        },
+    ]
+  }
